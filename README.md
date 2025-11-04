@@ -41,6 +41,17 @@ These features will be added in future versions:
 
 ---
 
+## 🔥 Live Demo (GitHub Pages)
+
+<p align="center">
+  <a href="https://benyamin012.github.io/Todo-Page/" target="_blank">
+    🚀 <b>Click here to view the live project</b>
+  </a>
+</p>
+
+
+
+---
 ## 🛠 Technologies Used
 
 - **HTML5**
