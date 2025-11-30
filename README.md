@@ -20,7 +20,7 @@
 - 🔍 Search & filter tasks  
 - 🎨 Clean, minimal and 
 - ⚡ Fast & lightweight — Vanilla JS only  
-
+  
 ---
 
 ## 🔮 Upcoming Features (Planned)
@@ -32,7 +32,7 @@ These features will be added in future versions:
 - ✅ **Edit existing tasks**
 - ✅ **LocalStorage saving system**
 - ✅ **Improved UI animations**
-
+-      **Drag & Drop**
 ---
 
 ## 📸 Preview 
