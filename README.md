@@ -32,7 +32,7 @@ These features will be added in future versions:
 - ✅ **Edit existing tasks**
 - ✅ **LocalStorage saving system**
 - ✅ **Improved UI animations**
--      **Drag & Drop**
+
 ---
 
 ## 📸 Preview 
